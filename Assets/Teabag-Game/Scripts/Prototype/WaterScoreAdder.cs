@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Carly.TeabagGame.Prototype
 {
-    public class Water : MonoBehaviour
+    public class WaterScoreAdder : MonoBehaviour
     {
         private PrototypeGameManager _gameManager;
 
